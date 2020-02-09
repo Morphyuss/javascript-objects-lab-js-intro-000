@@ -29,3 +29,7 @@ function destructivelyDeleteFromObjectByKey(object, key){
     return destructivelyDeleteFromObjectByKey
 }
   
+function destructivelyDeleteFromObjectByKey(object, key){
+  delete (key)
+    return destructivelyDeleteFromObjectByKey
+}  
