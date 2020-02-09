@@ -11,3 +11,4 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
   
 }
 
+const recipe {4 eggs};
